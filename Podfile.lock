@@ -1,0 +1,36 @@
+PODS:
+  - HexColors (2.2.1)
+  - Mantle (2.1.0):
+    - Mantle/extobjc (= 2.1.0)
+  - Mantle/extobjc (2.1.0)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - TSMessages (0.9.12):
+    - HexColors (~> 2.2.0)
+
+DEPENDENCIES:
+  - Mantle
+  - ReactiveCocoa (= 2.5)
+  - TSMessages
+
+SPEC REPOS:
+  trunk:
+    - HexColors
+    - Mantle
+    - ReactiveCocoa
+    - TSMessages
+
+SPEC CHECKSUMS:
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  TSMessages: c8cc7b80f2a833af533872cd02010cac061532cc
+
+PODFILE CHECKSUM: 58d635b95b93086aff53a66b03d9d0540e052657
+
+COCOAPODS: 1.8.4
