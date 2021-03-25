@@ -1,5 +1,5 @@
 # Weather
-<h1 align="center">Weather</h1>
+
 <h2 align="center">3 months</h2>
   
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
